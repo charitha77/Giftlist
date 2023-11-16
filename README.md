@@ -24,4 +24,4 @@ There are a few files in utils:
 
 - The `niceList.json` which contains all the names of the people who deserve a gift this year (this is randomly generated, feel free to add yourself and others to this list!)
 - The `MerkleTree.js` includes Merkle tree implementation.
-- The `verifyProof.js` should also look familiar. This was the last stage in the module. You can use this function to prove a name is in the merkle root.
+- The `verifyProof.js` You can use this function to prove a name is in the merkle root.
